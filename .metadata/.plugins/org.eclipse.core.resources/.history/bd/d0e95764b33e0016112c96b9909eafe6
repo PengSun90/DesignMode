@@ -1,0 +1,36 @@
+package main2;
+
+import main.Visitor;
+
+public class Apple implements AcceptVister {
+	private String color;
+	private String chandi;
+
+	private Apple(String color, String chandi) {
+		super();
+		this.color = color;
+		this.chandi = chandi;
+	}
+
+	public String getColor() {
+		return color;
+	}
+
+	public void setColor(String color) {
+		this.color = color;
+	}
+
+	public String getChandi() {
+		return chandi;
+	}
+
+	public void setChandi(String chandi) {
+		this.chandi = chandi;
+	}
+
+	@Override
+	public void accept(Visitor visitor) {
+		// TODO Auto-generated method stub
+
+	}
+}

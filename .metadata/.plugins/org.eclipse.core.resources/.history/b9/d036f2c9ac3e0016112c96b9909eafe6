@@ -1,0 +1,9 @@
+package main;
+
+public class Memento {
+	private String state;
+
+	public Memento(Originator originator) {
+		this.state = originator.getState();
+	}
+}

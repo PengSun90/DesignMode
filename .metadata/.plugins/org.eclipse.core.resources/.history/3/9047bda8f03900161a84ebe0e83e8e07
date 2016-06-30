@@ -1,0 +1,13 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+
+		Person person = new Person.Builder().build();
+		System.out.print("person getAge " + person.getAge());
+		System.out.print("person getName " + person.getName());
+		System.out.print("person getSex " + person.getSex());
+		System.out.print("person getWorkOn " + person.getWorkOn());
+
+	}
+}

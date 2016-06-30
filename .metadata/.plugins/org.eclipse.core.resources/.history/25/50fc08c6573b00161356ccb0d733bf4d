@@ -1,0 +1,12 @@
+package main;
+
+public class Adapter implements Target{
+
+	@Override
+	public void outPutVoltage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

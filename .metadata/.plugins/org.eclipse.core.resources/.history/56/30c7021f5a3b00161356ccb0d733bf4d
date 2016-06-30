@@ -1,0 +1,10 @@
+package main;
+
+public class adapteeImpl implements Adaptee{
+
+	@Override
+	public String outPutVoltage() {
+		return "110v 电压";
+	}
+
+}

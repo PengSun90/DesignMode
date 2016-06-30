@@ -1,0 +1,19 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+
+		observer china = new Chinacouster();
+		observer usa = new USAcouster();
+		Watched watched = new WatchedImpl();
+		watched.addWatcher(china);
+		watched.addWatcher(usa);
+		watched.notifyWatchers("apple");
+
+		WatchedWithName watchedWithName = new WatchedImplWhithName();
+		watchedWithName.addWatcherWithName(china.getClass().getSimpleName(), china);
+		watchedWithName.addWatcherWithName(usa.getClass().getSimpleName(), usa);
+		watchedWithName.notifyWatchersWithName(china.getClass().getSimpleName(), "苹果");
+		watchedWithName.notifyWatchersWithName(usa.getClass().getSimpleName(), "android");
+	}
+}

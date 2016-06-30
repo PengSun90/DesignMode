@@ -1,0 +1,27 @@
+package main;
+
+public class MenueB implements menue {
+
+	private String food;
+	
+
+	public MenueB(String food) {
+		super();
+		this.food = food;
+	}
+
+
+
+	public String getFood() {
+		return food;
+	}
+
+
+
+	@Override
+	public void setFood(String food) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

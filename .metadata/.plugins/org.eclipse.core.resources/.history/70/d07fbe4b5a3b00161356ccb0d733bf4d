@@ -1,0 +1,10 @@
+package main;
+
+public class GBSocket implements GBSocketInterface{
+	
+	@Override
+	public void powerWithThreeFlat() {
+		// TODO Auto-generated method stub
+		
+	}
+}

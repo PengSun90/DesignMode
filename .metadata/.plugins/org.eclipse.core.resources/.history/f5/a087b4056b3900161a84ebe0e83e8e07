@@ -1,0 +1,31 @@
+package main;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import com.sun.corba.se.impl.orb.ParserTable.TestAcceptor1;
+import com.sun.xml.internal.ws.wsdl.parser.InaccessibleWSDLException;
+
+public class main {
+
+	public static void main(String[] args) {
+
+		// VoteManager vm = new VoteManager();
+		// for (int i = 0; i < 9; i++) {
+		// vm.vote("u1", "A");
+		// }
+
+		int[] a = { 10, 20 };
+		TestA(3, 4,5);
+	}
+
+	public static void TestA(int i, int b, int... c) {
+
+		System.out.println("恭喜投票成功" + i);
+		System.out.println("恭喜投票成功" + b);
+		for (int a : c) {
+			System.out.println("恭喜投票成功" + a);
+		}
+	}
+
+}

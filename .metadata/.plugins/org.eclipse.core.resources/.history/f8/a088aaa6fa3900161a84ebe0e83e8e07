@@ -1,0 +1,11 @@
+package main;
+
+public class Chinacouster implements observer {
+
+	@Override
+	public void buyPhone(String phone) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

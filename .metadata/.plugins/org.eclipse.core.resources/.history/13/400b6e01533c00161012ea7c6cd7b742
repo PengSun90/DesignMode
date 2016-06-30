@@ -1,0 +1,19 @@
+package main;
+
+public class FlyweightImpl1 implements Flyweight {
+
+	String state = "";
+
+	private FlyweightImpl1(String state) {
+		super();
+		this.state = state;
+	}
+
+	@Override
+	public void operation(String state) {
+		// TODO Auto-generated method stub
+		System.out.println("Intrinsic State = " + this.state);
+		System.out.println("Extrinsic State = " + state);
+	}
+
+}

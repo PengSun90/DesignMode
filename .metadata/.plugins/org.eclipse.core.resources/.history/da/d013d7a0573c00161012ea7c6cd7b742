@@ -1,0 +1,5 @@
+package 复合享元;
+
+public class ConcreteCompositeFlyweight {
+
+}

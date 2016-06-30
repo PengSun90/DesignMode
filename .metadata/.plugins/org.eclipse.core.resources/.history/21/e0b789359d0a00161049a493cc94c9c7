@@ -1,0 +1,30 @@
+package test;
+
+public class mydemo {
+
+	public static void main(String[] args) {
+		int[] reordering = new int[] { 1, 9, 10, 9, 5, 5, 5, 5, 1, 2, 3, 4, 5,
+				6,8, 0 };
+		sort(11, reordering);
+	}
+
+	private static void sort(int limitNum, int[] reordering) {
+
+		int[] limit = new int[limitNum];
+
+		for (int i = 0; i < limitNum; i++) {
+			limit[i] = 0;
+		}
+
+		for (int j = 0; j < reordering.length; j++) {
+			int t = reordering[j];
+			limit[t]++;
+		}
+
+		for (int i = 0; i <limit.length ; i++) {
+			for (int j = 1; j < limit[i]; j++) {
+				System.out.println(i);
+			}
+		}
+	}
+}

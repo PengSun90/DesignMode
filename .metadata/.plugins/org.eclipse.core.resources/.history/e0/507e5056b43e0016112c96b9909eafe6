@@ -1,0 +1,8 @@
+package main2;
+
+import java.applet.Applet;
+
+public class Client {
+    public static void main(String[] args) {
+       Apple apple = new Applet("四川"，"红色");
+}

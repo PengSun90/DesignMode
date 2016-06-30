@@ -1,0 +1,11 @@
+package main;
+
+public interface mediator {
+	
+	void affictA();
+	
+	void affictB();
+	
+	
+
+}

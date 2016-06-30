@@ -1,0 +1,8 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+		coffee coffe1 = new choclateCaffe();
+		coffe1.price("1yuan");
+	}
+}

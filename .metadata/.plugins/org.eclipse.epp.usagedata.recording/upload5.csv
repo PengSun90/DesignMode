@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1461561201961
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1461561202127
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461561202373
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461561214928
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461561217253
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461562900104
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461562900683
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563304882
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563306227
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563308152
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563309901
+error,log,,,"Internal Error",1461563309933
+error,log,,,"Problems encountered while deleting resources.",1461563309934
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563314122
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1461563314127
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1461563314127
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563316641
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563317954
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1461563317957
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1461563317957
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563327960
+error,log,,,"Exception occurred while saving project preferences: /WheelViewDemo/.settings/org.eclipse.jdt.core.prefs.",1461563344111
+error,log,,,"Exception occurred while saving project preferences: /WheelViewDemo/.settings/org.eclipse.jdt.core.prefs.",1461563344112
+error,log,,,"Exception occurred while saving project preferences: /WheelViewDemo/.settings/org.eclipse.jdt.core.prefs.",1461563344113
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563344180
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461563344186
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461563344186
+started,bundle,org.eclipse.wst.server.core,1.1.303.v20110816_1717,"org.eclipse.wst.server.core",1461563344379
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1461563352616
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1461563352733
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1461563352829
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1461563352866
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1461563353179
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1461563353208
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1461563353308
+started,bundle,org.eclipse.emf.common,2.9.1.v20130827-0309,"org.eclipse.emf.common",1461563353363
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1461563353651
+started,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1461563353684
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1461563353783
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1461563354827
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1461563354881
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563374434
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563380001
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563383577
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1461563389171
+started,bundle,com.android.ide.eclipse.ndk,23.0.7.2120684,"com.android.ide.eclipse.ndk",1461563389200
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563389385
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563391032
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1461563396528
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.LogCatView",1461563401169
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1461563402766
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563412155
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563414457
+error,log,,,"Error: Error parsing C:\\Users\\Administrator\\.android\\devices.xml, backing up to C:\\Users\\Administrator\\.android\\devices.xml.old",1461563414743
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563414774
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563418877
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563421376
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563426837
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563426872
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563428076
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1461563429708
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563433613
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563435706
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563436264
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563440432
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563440487
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563452751
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563509697
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563714918
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563715693
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563778397
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1461563781261
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1461563781262
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563782378
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563786282
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563787407
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563788417
+error,log,,,"Exception occurred while saving project preferences: /Cascade_Master/.settings/org.eclipse.jdt.core.prefs.",1461563812751
+error,log,,,"Exception occurred while saving project preferences: /Cascade_Master/.settings/org.eclipse.jdt.core.prefs.",1461563812752
+error,log,,,"Exception occurred while saving project preferences: /Cascade_Master/.settings/org.eclipse.jdt.core.prefs.",1461563812753
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563812789
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461563812795
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461563812795
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563814200
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563816744
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563833996
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563834076
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563834293
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563853799
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563857116
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563858113
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563886858
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563888767
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563888958
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563888995
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563891345
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563891591
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563892359
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563892551
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563892588
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563893223
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563894215
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563894258
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563896646
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563898881
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563898928
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563899824
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563900051
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563900082
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563900421
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563900609
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563900645
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563901014
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563901189
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563901224
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563901533
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563901722
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563901759
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563902126
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563902303
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563902336
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563902827
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563903008
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563903046
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563903387
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563903587
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563903631
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563904697
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461563904891
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1461563909797
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563918647
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563920149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563921624
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563936914
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461563937895
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564168250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564170715
+error,log,,,"Failed to load properties file for project 'MainActivity'",1461564186561
+error,log,,,"Failed to load properties file for project 'main'",1461564186609
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564186656
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461564186664
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461564186664
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564199581
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564201204
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564201388
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564202792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564217473
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564253000
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564261102
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564278987
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461564278996
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1461564278996
+error,log,,,"fileChanged: failed to find manifest package for project wheel_province",1461564279110
+error,log,,,"fileChanged: failed to find manifest package for project wheel_province",1461564279110
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564286473
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1461564289587
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1461564289591
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1461564289591
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461564294456
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1461564294503
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1461564301330
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences",1461564308287
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308287
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308287
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308288
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308289
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308290
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308291
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308292
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308293
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308294
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308295
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308295
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308295
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308295
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.openPom",1461564308295

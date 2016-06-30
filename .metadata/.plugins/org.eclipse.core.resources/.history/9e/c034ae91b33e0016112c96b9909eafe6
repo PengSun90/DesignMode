@@ -1,0 +1,11 @@
+package main2;
+
+public class VistorImpl implements Visitor{
+
+	@Override
+	public void visit(Apple apple) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

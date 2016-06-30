@@ -1,0 +1,12 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+		ITV tv = new SonyTV();
+		RemoteControl remoteControl = new SamsungControl(tv);
+		Person person = new Woman(remoteControl);
+		person.setChannel(100);
+
+	}
+
+}

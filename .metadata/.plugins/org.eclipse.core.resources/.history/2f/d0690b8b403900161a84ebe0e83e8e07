@@ -1,0 +1,7 @@
+package main;
+
+public abstract class  colleague {
+	
+	protected String food ;
+
+}

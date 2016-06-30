@@ -1,0 +1,13 @@
+package main;
+
+import com.sun.org.apache.bcel.internal.generic.NEW;
+
+public class main {
+
+	Adaptee adaptee = new adapteeImpl();
+ 	
+	Target adapter = new Adapter(adaptee);
+	adapter.outPutVoltage();
+	
+	
+}

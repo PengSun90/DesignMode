@@ -1,0 +1,44 @@
+package clone;
+
+public class clone {
+	 public static void main(String[] args){  
+	        ConcretePrototype cp = (ConcretePrototype) new Prototype();
+	        
+	        cp.show();
+	        
+	        
+	        
+//	        for(int i=0; i< 10; i++){  
+////	            ConcretePrototype clonecp = (ConcretePrototype)cp.clone1();  
+//	            ConcretePrototype clonecp = (ConcretePrototype) cp.clone1();  
+//	            clonecp.show();  
+//	            clonecp.read();
+//	        }  
+	    } 
+
+}
+
+class Prototype implements Cloneable  {  
+   
+	public Prototype clone1(){  
+        Prototype prototype = null;  
+        try{  
+            prototype = (Prototype)super.clone();  
+        }catch(CloneNotSupportedException e){  
+            e.printStackTrace();  
+        }  
+        return prototype;   
+    }  
+	
+	  public void read(){  
+	        System.out.println("read");  
+	    }
+	
+}  
+  
+class ConcretePrototype extends Prototype{  
+    public void show(){  
+        System.out.println("原型模式实现类");  
+    }  
+}  
+  

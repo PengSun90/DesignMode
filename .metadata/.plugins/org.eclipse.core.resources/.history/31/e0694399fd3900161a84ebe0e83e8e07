@@ -1,0 +1,15 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+	
+	observer china = new Chinacouster();	
+	observer usa = new USAcouster();	
+	Watched watched = new WatchedImpl();
+	watched.addWatcher(china);
+	watched.addWatcher(usa);
+	watched.notifyWatchers("apple");
+	
+	}
+
+}

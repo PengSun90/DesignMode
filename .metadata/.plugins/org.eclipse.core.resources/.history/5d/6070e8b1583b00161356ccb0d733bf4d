@@ -1,0 +1,14 @@
+package main;
+
+import com.sun.org.apache.bcel.internal.generic.NEW;
+
+public class main {
+
+	public static void main(String[] args) {
+		Adaptee adaptee = new adapteeImpl();
+
+		Target adapter = new Adapter(adaptee);
+		adapter.outPutVoltage();
+		System.out.println("实际电压为：" + 	adapter.outPutVoltage());
+	}
+}

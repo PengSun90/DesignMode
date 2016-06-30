@@ -1,0 +1,26 @@
+package main;
+
+import com.sun.org.apache.bcel.internal.generic.NEW;
+
+public class main {
+
+	public static void main(String[] args) {
+		// Adaptee adaptee = new adapteeImpl();
+		//
+		// DBSocketInterface adapter = new Adapter(adaptee);
+		// System.out.println("实际电压为：" + adapter.outPutVoltage());
+		// 初始化一个德国插座对象， 用一个德标接口引用它
+		DBSocketInterface dbSoket = new DBSocket();
+
+		// 创建一个旅馆对象
+		Hotel hotel = new Hotel(dbSoket);
+
+		// 在旅馆中给手机充电
+		hotel.charge();
+	
+		hotel.setSocket(Adapter);
+		// 在旅馆中给手机充电
+		hotel.charge();
+	}
+
+}

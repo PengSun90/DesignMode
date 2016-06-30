@@ -1,0 +1,10 @@
+package main;
+
+public class NomalCaffe implements coffee {
+
+	@Override
+	public void price() {
+		
+	}
+
+}

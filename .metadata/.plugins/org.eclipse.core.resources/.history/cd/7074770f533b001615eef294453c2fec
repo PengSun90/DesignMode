@@ -1,0 +1,6 @@
+package main;
+
+public interface coffee {
+
+	String price();
+}

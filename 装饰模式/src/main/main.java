@@ -1,0 +1,10 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+		Coffee nCoffee = new NomalCaffe();
+		Coffee coffe = new ChocolateCaffe(nCoffee);
+		coffe.price();
+		System.out.println(coffe.price());
+	}
+}

@@ -1,0 +1,11 @@
+package main;
+
+public class main {
+	public static void main(String[] args) {
+		ITV tv = new SonyTV();
+		RemoteControl remoteControl = new Sam
+		LogitechRemoteControl lrc = new LogitechRemoteControl(tv);
+		lrc.setChannelKeyboard(100);
+	}
+
+}

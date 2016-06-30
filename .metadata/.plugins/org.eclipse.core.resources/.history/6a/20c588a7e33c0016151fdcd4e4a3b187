@@ -1,0 +1,27 @@
+package main;
+
+public class SamsungControl implements RemoteControl {
+
+	private ITV tv;
+
+	private SamsungControl(ITV itv) {
+		super();
+		this.tv = itv;
+	}
+
+	@Override
+	public void turnOn() {
+		tv.on();
+	}
+
+	@Override
+	public void turnOff() {
+		tv.off();
+	}
+
+	@Override
+	public void setChannel(int channel) {
+		tv.switchChannel(channel);
+	}
+
+}

@@ -1,0 +1,22 @@
+package main;
+
+public class Adapter implements Target{
+
+	Adaptee adaptee;
+	
+	
+	
+	public Adapter(Adaptee adaptee) {
+		super();
+		this.adaptee = adaptee;
+	}
+
+
+
+	@Override
+	public String outPutVoltage() {
+		return this.adaptee.outPutVoltage();
+	}
+
+
+}

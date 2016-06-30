@@ -1,0 +1,15 @@
+package main;
+
+public class choclateCaffe implements coffe {
+
+	coffe coffe1 = new NomalCaffe();
+
+	@Override
+	public void price(String caffe) {
+
+		System.out.print("price" + caffe);
+		coffe1.price(caffe);
+
+	}
+
+}

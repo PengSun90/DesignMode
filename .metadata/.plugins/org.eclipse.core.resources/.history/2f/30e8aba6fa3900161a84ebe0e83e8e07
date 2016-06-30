@@ -1,0 +1,11 @@
+package main;
+
+public class USAcouster implements observer {
+
+	@Override
+	public void buyPhone(String phone) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

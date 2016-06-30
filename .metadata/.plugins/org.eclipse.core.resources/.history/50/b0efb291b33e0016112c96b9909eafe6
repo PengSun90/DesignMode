@@ -1,0 +1,10 @@
+package main2;
+
+import main.NodeA;
+
+public interface Visitor {
+	/**
+	 * 对应于NodeA的访问操作
+	 */
+	public void visit(Apple apple);
+}

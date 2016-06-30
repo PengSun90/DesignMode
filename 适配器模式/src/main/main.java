@@ -1,0 +1,25 @@
+package main;
+
+import com.sun.org.apache.bcel.internal.generic.NEW;
+
+public class main {
+
+	public static void main(String[] args) {
+	
+		// 初始化一个德国插座对象， 用一个德标接口引用它
+		DBSocketInterface dbSoket = new DBSocket();
+		
+		GBSocketInterface gbSocket = new GBSocket();
+
+		// 创建一个旅馆对象
+		Hotel hotel = new Hotel(dbSoket);
+
+		// 在旅馆中给手机充电
+		hotel.charge();
+	
+		hotel.setSocket(new SocketAdapter(gbSocket));
+		// 在旅馆中给手机充电
+		hotel.charge();
+	}
+
+}

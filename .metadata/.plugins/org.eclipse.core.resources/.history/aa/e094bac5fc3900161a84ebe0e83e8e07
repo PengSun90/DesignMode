@@ -1,0 +1,11 @@
+package main;
+
+public interface WatchedWithName {
+	  public void addWatcher(observer watcher);
+
+	  public void removeWatcher(observer watcher);
+
+	  public void notifyWatchers(String str);
+
+
+}

@@ -1,0 +1,13 @@
+package main;
+
+public class choclateCaffe implements coffee {
+
+	coffee coffe1 = new NomalCaffe();
+
+	@Override
+	public void price() {
+
+	
+	}
+
+}

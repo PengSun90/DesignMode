@@ -1,0 +1,11 @@
+package main2;
+
+public class VistorImpl implements Visitor2 {
+
+	@Override
+	public void visit(Apple apple) {
+		System.out.print("apple 产地" + apple.getChandi());
+		System.out.print("apple 颜色" + apple.getColor());
+	}
+
+}

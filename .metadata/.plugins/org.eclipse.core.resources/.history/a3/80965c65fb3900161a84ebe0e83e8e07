@@ -1,0 +1,36 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class CopyOfWatchedImplWhithName implements Watched {
+
+	private Map<String, observer> observers = new HashMap<>();
+
+	@Override
+	public void addWatcher(String name, observer watcher) {
+		if (!observers.containsKey(name)) {
+			observers.put(name, watcher);
+		}
+
+	}
+
+	@Override
+	public void removeWatcher(observer watcher) {
+		if (observers != null && observers.contains(watcher)) {
+			observers.remove(watcher);
+		}
+
+	}
+
+	@Override
+	public void notifyWatchers(String str) {
+		for (observer ob : observers) {
+			ob.buyPhone(str);
+		}
+
+	}
+
+}

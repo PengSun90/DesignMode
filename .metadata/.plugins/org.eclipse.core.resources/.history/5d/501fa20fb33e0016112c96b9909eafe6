@@ -1,0 +1,8 @@
+package main2;
+
+import main.Visitor;
+
+public interface acceptVister {
+
+	public void accept(Visitor visitor);
+}

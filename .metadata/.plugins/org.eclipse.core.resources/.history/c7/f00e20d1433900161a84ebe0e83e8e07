@@ -1,0 +1,21 @@
+package main;
+
+public class mediatorImpl implements mediator{
+
+	private MenueA a;
+	
+	
+	
+	@Override
+	public void affictA() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void affictB() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,3 @@
+#Sun Jun 19 16:41:43 CST 2016
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1466311066930" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1461556096584" name\="jdk1.8.0_31" path\="C\:\\Program Files\\Java\\jdk1.8.0_31"/>\r\n<vm id\="1466311066930" name\="jdk1.7.0_17" path\="C\:\\Program Files\\Java\\jdk1.7.0_17"/>\r\n<vm id\="1466311066931" name\="jre1.8.0_73" path\="C\:\\Program Files\\Java\\jre1.8.0_73"/>\r\n<vm id\="1466311066932" name\="jre7" path\="C\:\\Program Files\\Java\\jre7"/>\r\n</vmType>\r\n</vmSettings>\r\n

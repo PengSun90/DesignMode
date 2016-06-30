@@ -1,0 +1,27 @@
+package main;
+
+public class man implements Person {
+
+	private RemoteControl reControl;
+
+	private man(RemoteControl reControl) {
+		super();
+		this.reControl = reControl;
+	}
+
+	@Override
+	public void turnOn() {
+		reControl.turnOn();
+	}
+
+	@Override
+	public void turnOff() {
+		reControl.turnOff();
+	}
+
+	@Override
+	public void setChannel(int channel) {
+		reControl.setChannel(channel);
+	}
+
+}

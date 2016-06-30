@@ -1,0 +1,23 @@
+package main;
+
+public class WatchedWitchNameImpl implements WatchedWithName{
+
+	@Override
+	public void addWatcher(String name, observer watcher) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void removeWatcher(String name) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyWatchers(String name, String str) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
